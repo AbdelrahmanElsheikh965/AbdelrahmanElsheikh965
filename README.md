@@ -9,8 +9,6 @@ I am seeking a challenging and rewarding opportunity to excel and prove my analy
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanelsheikh965&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanelsheikh965" /> </p>
 
-- 🔭 I’m currently working on [Real-ECommerce](https://github.com/AbdelrahmanElsheikh965/Real-ECommerce)
-
 - 📫 How to reach me **amelsheikh01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
