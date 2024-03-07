@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 I'm a self-motivated innovative backend engineer with prior experience in designing databases, writing server-side code, and testing software.  
-I look forward to growing my skills, expanding my experience, and being more professional as a backend engineer.      
+I look forward to growing my skills, expanding my experience, and being more professional as a backend engineer.         
 I am seeking a challenging and rewarding opportunity to excel and prove my analytical, technical, and interpersonal skills. 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
