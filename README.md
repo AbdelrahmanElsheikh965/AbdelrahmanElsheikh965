@@ -7,9 +7,6 @@ I look forward to growing my skills, expanding my experience, and being more pro
 I am seeking a challenging and rewarding opportunity to excel and prove my analytical, technical, and interpersonal skills. 
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
-
-
    
 
 - 📫 How to reach me **amelsheikh01@gmail.com**
