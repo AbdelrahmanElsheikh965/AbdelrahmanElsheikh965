@@ -1,7 +1,4 @@
 <h1 align="center"> I'm Abdelrahman Mohamed Elsheikh </h1>             
-
-
-
                                       
                       
 ### Hi there 👋     
